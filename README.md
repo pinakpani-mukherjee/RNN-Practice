@@ -1,0 +1,2 @@
+# RNN-Practice
+RNN practice
